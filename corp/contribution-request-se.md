@@ -8,5 +8,4 @@ Please note, this is strictly a test task designed to assess your suitability fo
 
 Best,
 Andrey Platov
-The Architect
-Hardcore Engineering
+The Architect @ Hardcore Engineering
